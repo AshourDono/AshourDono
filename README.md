@@ -19,3 +19,6 @@ _NOTE: Top languages do not indicate my skill level or something like that, it's
 </a>
 
 ---
+---
+[![Ashour's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshourDono)](https://github.com/anuraghazra/github-readme-stats)
+---
